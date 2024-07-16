@@ -1,0 +1,103 @@
+body {
+  background-color: pink;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  background-color: purple;
+  padding: 20px;
+  color: white;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  height: 60px; 
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  color: palevioletred;
+}
+
+.content {
+  padding-top: 80px; 
+}
+
+.pokemon
+{
+  background-color: lightpink;
+  border: 0px;
+}
+
+.pokemonImg
+{
+  width: 150px;
+  height: auto;
+  margin-top: 5px;
+}
+
+.buttonD
+{
+  background-color: purple;
+  border: 0px;
+}
+
+.delbutton
+{
+  float: right;
+}
+
+.favPokemon
+{
+  margin: 10px;
+  border: 0px;
+  border-radius: 75px;
+  text-decoration: none;
+  background-color: rgba(225, 0, 255, 0.464);
+}
+
+.linkfav
+{
+  text-decoration: none;
+  color: rgb(255, 0, 234);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.itemdetail
+{
+  background-color: rgba(242, 51, 232, 0.203);
+  width: 1000px;
+  height: 500px;
+  margin-top: 50px;
+  border-radius: 100px;
+  text-align: center;
+  align-items: center;
+  padding-top: 120px;
+}
+
+.LogButton
+{
+  background-color: pink;
+  color: purple;
+  margin-top: 10px;
+  border: 2px dashed purple;
+}
