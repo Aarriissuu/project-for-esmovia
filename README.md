@@ -6,4 +6,6 @@ This is pokemon website, its very silly.
 
 Look for your favorite pokemons hights and wages >:3 
 
+## thats all ig
+
 have fun checking that out, its very silly, i recomend.
